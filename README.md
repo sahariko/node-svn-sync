@@ -11,4 +11,7 @@ Feel free to add more methods.
 ### Usage
 
 1. `require()` the module wherever you plan to use it.
-2. Execute `yield` + the command you want to use. For example: `yield update()`
+2. Execute `yield` + the command you want to use. For example:
+```js
+yield update()
+```
